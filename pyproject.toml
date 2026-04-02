@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "normalize-kap-orthography"
-version = "0.1.0"
+version = "0.1.1"
 description = "Normalize Kapampangan words from Spanish-era (1730s) orthography to modern K-based orthography"
 readme = "README.md"
 license = "MIT"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 authors = [
     { name = "Keith Manaloto" },
 ]
