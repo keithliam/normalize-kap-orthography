@@ -1,5 +1,9 @@
 # normalize-kap-orthography
 
+[![PyPI version](https://img.shields.io/pypi/v/normalize-kap-orthography)](https://pypi.org/project/normalize-kap-orthography/)
+[![License](https://img.shields.io/pypi/l/normalize-kap-orthography)](https://github.com/keithmanaloto/normalize-kap-orthography/blob/main/LICENSE)
+[![PyPI downloads](https://img.shields.io/pypi/dm/normalize-kap-orthography)](https://pypi.org/project/normalize-kap-orthography/)
+
 A Python utility to normalize Kapampangan words from Spanish-era (1730s) orthography to modern K-based orthography.
 
 Built to make historical Kapampangan texts — like Bergaño's 1732 *Vocabulario de la Lengua Pampanga* — more accessible to modern readers, researchers, and NLP pipelines.
